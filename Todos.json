@@ -1,0 +1,41 @@
+{
+  "task": [
+    {
+      "id": 1,
+      "task": "Kupic kwaity",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "task": "Odebrac buty",
+      "complete": false
+    },
+    {
+      "id": 3,
+      "task": "Zamowic bilety",
+      "complete": false
+    },
+    {
+      "id": 4,
+      "task": "Zadzownic do Janka",
+      "complete": true
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "task": "Kupic kwaity",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "task": "Odebrac buty",
+      "complete": false
+    },
+    {
+      "id": 3,
+      "task": "Zamowic bilety",
+      "complete": false
+    }
+  ]
+}
